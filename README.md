@@ -1,6 +1,6 @@
 # React Anonymous Chat
 
-In this [demo app](https://react-anonymous-chat.netlify.com), we're going to build a realtime group chat using [React.js](https://reactjs.org/) and [CometChat](https://cometchat.com) that lets users chat without revealing their identities.4
+In this demo app, we're going to build a realtime group chat using [React.js](https://reactjs.org/) and [CometChat](https://cometchat.com) that lets users chat without revealing their identities.
 
 ### Screenshots
 
@@ -12,6 +12,7 @@ In this [demo app](https://react-anonymous-chat.netlify.com), we're going to bui
 This demo app uses the following:
  - [CometChat Pro](https://cometchat.com)
  - [React.js](https://reactjs.org/)
+ - [React Bootstrap ](https://react-bootstrap.github.io/)
 
 ### Running the demo application
 

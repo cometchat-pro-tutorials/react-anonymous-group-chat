@@ -23,7 +23,12 @@ In order to run the demo application locally, you'll need to follow the followin
 - Go to the **API Keys** tab and click **Create API Key** 
 - Create an API Key called **React Anonymous Chat** with **Full Access**.
 - Clone the repository by running `git clone https://github.com/KingIdee/cometchat-react-anonymous-chat.git` in the terminal and open it with the code editor of your choice.
-- Open the  `.env` file and add keys from your CometChat app.
+- Create a `.env` file with the following details.
+```
+  REACT_APP_COMETCHAT_APPID=YOUR_APP_ID
+  REACT_APP_COMETCHAT_APIKEY=YOUR_APIKEY
+```
+  
 - `cd` into the project folder and run `npm install` to install dependencies
 - Run your app using `npm start`
 - Open your browser on `http://localhost:3000` to see the app

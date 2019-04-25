@@ -83,7 +83,7 @@ class Chat extends React.Component {
   };
 
   receiveMessages = () => {
-    const listenerID = "anonymous";
+    const listenerID = "supergroup";
 
     CometChat.addMessageListener(
       listenerID,
@@ -103,7 +103,7 @@ class Chat extends React.Component {
   };
 
   joinGroup = () => {
-    const GUID = "anonymous";
+    const GUID = "supergroup";
     const password = "";
     const groupType = CometChat.GROUP_TYPE.PUBLIC;
 

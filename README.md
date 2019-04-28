@@ -10,9 +10,10 @@ In this demo app, we're going to build a realtime group chat using [React.js](ht
 ### Technologies
 
 This demo app uses the following:
- - [CometChat Pro](https://cometchat.com)
- - [React.js](https://reactjs.org/)
- - [React Bootstrap ](https://react-bootstrap.github.io/)
+
+- [CometChat Pro](https://cometchat.com)
+- [React.js](https://reactjs.org/)
+- [React Bootstrap ](https://react-bootstrap.github.io/)
 
 ### Running the demo application
 
@@ -22,6 +23,7 @@ In order to run the demo application locally, you'll need to follow the followin
 - Head over to the [CometChat Pro Dashboard](https://app.cometchat.com/#/apps), create a new app called **react-anonymous-chat** and click **Explore**
 - Clone the repository by running `git clone https://github.com/KingIdee/cometchat-react-anonymous-chat.git` in the terminal and open it with the code editor of your choice.
 - Create a `.env` file with the following details.
+
 ```
   REACT_APP_COMETCHAT_APPID=YOUR_APP_ID
   REACT_APP_COMETCHAT_APIKEY=YOUR_APIKEY
@@ -37,5 +39,3 @@ In order to run the demo application locally, you'll need to follow the followin
 
 - [CometChat Pro JavaScript SDK Documentation](https://prodocs.cometchat.com/docs/js-quick-start)
 - [CometChat Pro Dashboard](https://app.cometchat.com/#/apps)
-
-

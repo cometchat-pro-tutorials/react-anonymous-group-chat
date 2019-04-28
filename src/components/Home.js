@@ -14,13 +14,6 @@ class Home extends React.Component {
     this.state = {
       username: "",
       user: null,
-      defaultUsernames: [
-        "SUPERHERO1",
-        "SUPERHERO2",
-        "SUPERHERO3",
-        "SUPERHERO4",
-        "SUPERHERO5"
-      ],
       error: null,
       redirect: false,
       isLoading: false
@@ -105,12 +98,6 @@ class Home extends React.Component {
                 Don't have an account? <Link to="/signup">Create One</Link>
               </p>
             </Form>
-            {/* <p className='text-center lead mt-5'>Available Usernames</p>
-						{this.state.defaultUsernames.map(username => (
-							<Badge variant='primary' className='mx-2' key={username}>
-								{username}
-							</Badge>
-						))} */}
           </Col>
         </Row>
       </React.Fragment>

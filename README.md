@@ -33,7 +33,7 @@ In order to run the demo application locally, you'll need to follow the followin
 - `cd` into the project folder and run `npm install` to install dependencies
 - Run your app using `npm start`
 - Open your browser on `http://localhost:3000` to see the app
-- Use any of the default usernames **SUPERHERO1**, **SUPERHERO2**, **SUPERHERO3**, **SUPERHERO4**, **SUPERHERO5** to login and start chatting.
+- Create a new user and login to start chatting.
 
 ### Useful Links
 

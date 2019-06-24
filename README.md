@@ -21,7 +21,7 @@ In order to run the demo application locally, you'll need to follow the followin
 
 - Create an account with [CometChat Pro](https://app.cometchat.com/#/register)
 - Head over to the [CometChat Pro Dashboard](https://app.cometchat.com/#/apps), create a new app called **react-anonymous-chat** and click **Explore**
-- Clone the repository by running `git clone https://github.com/KingIdee/cometchat-react-anonymous-chat.git` in the terminal and open it with the code editor of your choice.
+- Clone the repository by running `git clone https://github.com/cometchat-pro-tutorials/react-anonymous-group-chat.git` in the terminal and open it with the code editor of your choice.
 - Create a `.env` file with the following details.
 
 ```

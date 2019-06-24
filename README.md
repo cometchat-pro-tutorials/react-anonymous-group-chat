@@ -1,6 +1,6 @@
 # React Anonymous Chat
 
-In this demo app, we're going to build a realtime group chat using [React.js](https://reactjs.org/) and [CometChat](https://cometchat.com) that lets users chat without revealing their identities.
+In this demo app, we're going to build a realtime group chat using [React.js](https://reactjs.org/) and [CometChat](https://cometchat.com/pro) that lets users chat without revealing their identities.
 
 ### Screenshots
 
@@ -11,7 +11,7 @@ In this demo app, we're going to build a realtime group chat using [React.js](ht
 
 This demo app uses the following:
 
-- [CometChat Pro](https://cometchat.com)
+- [CometChat Pro](https://cometchat.com/pro)
 - [React.js](https://reactjs.org/)
 - [React Bootstrap ](https://react-bootstrap.github.io/)
 
@@ -19,7 +19,7 @@ This demo app uses the following:
 
 In order to run the demo application locally, you'll need to follow the following steps:
 
-- Create an account with [CometChat Pro](https://cometchat.com)
+- Create an account with [CometChat Pro](https://app.cometchat.com/#/register)
 - Head over to the [CometChat Pro Dashboard](https://app.cometchat.com/#/apps), create a new app called **react-anonymous-chat** and click **Explore**
 - Clone the repository by running `git clone https://github.com/KingIdee/cometchat-react-anonymous-chat.git` in the terminal and open it with the code editor of your choice.
 - Create a `.env` file with the following details.
